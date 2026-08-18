@@ -21,7 +21,9 @@ TABStudio is currently available as an Early Support release.
 - The first week is free
 - Subscription and cancellation are managed through Microsoft Store
 
-TABStudio is currently undergoing Microsoft Store certification.
+TABStudio is currently available on the Microsoft Store.
+
+[Get TABStudio from the Microsoft Store](https://apps.microsoft.com/detail/9MT8TB5WQT07)
 
 ### Key Features
 
@@ -71,7 +73,9 @@ TABStudioは現在、Early Support版として準備中です。
 - 最初の1週間は無料
 - 契約・解約はMicrosoft Storeを通じて管理
 
-現在、Microsoft Storeで認定手続き中です。
+現在、Microsoft Storeで公開中です。
+
+[Microsoft StoreでTABStudioを入手](https://apps.microsoft.com/detail/9MT8TB5WQT07)
 
 ### 主な機能
 
@@ -96,7 +100,7 @@ TABStudioは現在、Early Support版として準備中です。
 
 ヘルプ、FAQ、不具合報告、プライバシーポリシーは、このリポジトリ内に順次追加します。
 
-不具合報告は [Issues](../../issues) から受け付ける予定です。
+不具合報告は [Issues](https://github.com/Yumeakari-do/tabstudio-product/issues) から受け付ける予定です。
 
 ### Publisher
 
